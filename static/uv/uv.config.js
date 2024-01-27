@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/service/',
-    bare: '/bare/',
+    bare: 'https://manten1-eh0hgvtn.b4a.run/bare/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
