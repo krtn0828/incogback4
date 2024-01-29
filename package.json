@@ -1,5 +1,5 @@
 {
-  "name": "incognito",
+  "name": "incog",
   "version": "1.0.0",
   "description": "Unofficial Incognito easy deployment version with TompHTTP bare server included.",
   "type": "module",
@@ -17,15 +17,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amethystnetwork-dev/Incognito"
+    "url": "git+https://github.com/krtn0828/incogback4"
   },
   "keywords": [
     "unoffical",
     "ultraviolet",
     "unblock",
     "titaniumnetwork",
-    "bypass-filter",
-    "amethystnetwork-dev"
+    "bypass-filter"
   ],
   "author": "caracal-js and Amethyst Network contributors",
   "license": "GPL-3.0-or-later",
